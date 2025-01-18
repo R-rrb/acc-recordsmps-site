@@ -1,0 +1,14 @@
+.custom-green-sidebar {
+    background-color: #023601f0;
+    /* Bootstrap green */
+    color: #ffffff;
+    /* White text */
+}
+
+.custom-green-sidebar .nav-link {
+    color: rgba(255, 253, 253, 0.951);
+    /* text color */
+}
+
+
+
